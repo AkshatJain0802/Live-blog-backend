@@ -1,4 +1,4 @@
-# Live Blog Backend 🚀
+# Live Blog Backend 
 
 A RESTful API for a live blog, built with **Node.js + Express + MongoDB Atlas**.
 
@@ -65,8 +65,8 @@ npm start
 
 You should see:
 ```
-🚀 Server running on http://localhost:5000
-✅ MongoDB Connected: cluster0.abc123.mongodb.net
+Server running on http://localhost:5000
+MongoDB Connected: cluster0.abc123.mongodb.net
 ```
 
 ---
